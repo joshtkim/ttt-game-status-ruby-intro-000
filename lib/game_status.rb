@@ -65,4 +65,3 @@ def winner
     end
   end
 end
-
